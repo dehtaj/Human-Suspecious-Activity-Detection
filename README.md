@@ -1,4 +1,4 @@
-# Suspicious-Human-Activity-Detection-LRCN
+# Human-Suspicious-Activity-Detection-LRCN
 Suspicious Human Activity detection on CCTV camera footage using LRCN Model. 
 ### Dehtaj (shaikdehtaj786@gmail.com)
 
